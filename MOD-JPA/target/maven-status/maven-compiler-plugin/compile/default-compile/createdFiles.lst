@@ -1,0 +1,8 @@
+com\j4ltechnologies\jpa\dao\IDao.class
+com\j4ltechnologies\jpa\models\Adresse.class
+com\j4ltechnologies\jpa\models\Entreprise.class
+com\j4ltechnologies\jpa\models\Travailleur.class
+com\j4ltechnologies\jpa\dao\TravailleurDao.class
+com\j4ltechnologies\jpa\models\TestingModels.class
+com\j4ltechnologies\jpa\tools\JpaTool.class
+com\j4ltechnologies\jpa\models\Geo.class

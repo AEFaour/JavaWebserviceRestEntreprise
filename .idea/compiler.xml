@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MOD-JPA" />
+        <module name="MOD-REST" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="COURS-JPA-REST" target="1.8" />
+      <module name="MOD-JPA" target="1.8" />
+      <module name="MOD-REST" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

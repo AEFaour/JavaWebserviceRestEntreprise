@@ -1,0 +1,3 @@
+com\j4ltechnologies\rest\TravailleurResource.class
+com\j4ltechnologies\exceptions\ErrorMessage.class
+com\j4ltechnologies\exceptions\NotFoundException.class
